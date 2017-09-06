@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Probability.Lib", "Probability.Lib\Probability.Lib.csproj", "{7C61BC2B-C2BA-4DE7-96E8-E3D033EB5EA5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8C74797C-F6C3-4FE8-A9C9-9C59ADE89DFF}"
+	ProjectSection(SolutionItems) = preProject
+		..\LICENSE = ..\LICENSE
+		..\README.md = ..\README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C61BC2B-C2BA-4DE7-96E8-E3D033EB5EA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C61BC2B-C2BA-4DE7-96E8-E3D033EB5EA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C61BC2B-C2BA-4DE7-96E8-E3D033EB5EA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C61BC2B-C2BA-4DE7-96E8-E3D033EB5EA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56826972-01CF-461E-858B-1CD82118EEAB}
+	EndGlobalSection
+EndGlobal
